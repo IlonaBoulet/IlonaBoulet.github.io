@@ -9,7 +9,7 @@ hero_image_ratio: is-1by1
 ---
 
 # Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en 1ère année de classe préparatoire intégrée
 
 
 Disponible XX mois à partir de Date
