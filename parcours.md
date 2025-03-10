@@ -8,35 +8,37 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2028`
+**Unilasalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève ingénieur en 1ère année de classe préparatoire intégrée spécialisée dans l'informmatique et l'énergie.
+* Option GEB visé : le but est de travailler dans l'énergie plus tard.
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac spécialité maths physique avec mention, Sévigné Compiègne
 
 ## Expériences
-
-`20XX` **Projet d’étude – préciser le thème du projet**
-
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en groupe_
+* Option science politique : débat sur l'actualité dans le but d'aller au parlément européen du lycéen pour débattre avec les autres lycéens d'Europe
+* projet de biologie : nous avons travailler sur la vulgarisation d'un article sur les cancers de la prostate des enfants et nous sommes allés le présenter à Beauvais.
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
+`Janvier 2022` **Haras Treize**
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+_stage pour découvrir le métier de cavalier pro_
+* entretien des écuries : nettoyage des boxs, entretien de la carrière avec la herse, rangement... 
+* Travail des chevaux de tout âge.
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+`Août 2024` **Amada SA**
+
+_travail d'été chez amada_
+* préparation des colis principalement des pièces détachés. 
+* Reception de retour et enregistrement dans SAP.
+* Utilisation et apprentissage du logiciel SAP.
+
+`Juin/Juillet 2025` **Amada**
+
+_stage d'execution de première année_
 
 `20XX` **Association, description de l’asso., taille**
 
@@ -46,22 +48,19 @@ _Intitulé du poste dans une équipe de XX membres_
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 Anglais 
+* LV2 Espagnol
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* SAP
+* Python
 
-Autres
-* Autres diplômes ou permis spéciaux
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Sport
+* Equitation (compétition) 
 
-Loisirs 1
-* Description 
-* Description 
+Loisir
+* Running 
+* Echec 
