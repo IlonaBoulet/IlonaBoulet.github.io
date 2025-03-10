@@ -14,7 +14,7 @@ Elève ingénieur en 1ère année de classe préparatoire intégrée à Unilasal
 
 Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[ilona.boulet@etu.unilasalle.fr](ilo.boulet@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
