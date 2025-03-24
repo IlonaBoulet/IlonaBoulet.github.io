@@ -40,11 +40,6 @@ _travail d'été chez amada_
 
 _stage d'execution de première année_
 
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-
 ## Compétences
 
 Langues
@@ -54,6 +49,7 @@ Langues
 Informatique
 * SAP
 * Python
+* C (en cours d'apprentissage)
 
 
 ## Centres d’intérêt
